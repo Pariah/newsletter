@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13202acd-50c4-4f62-81ef-de0570c9e751" name="Default Changelist" comment="">
+    <list default="true" id="13202acd-50c4-4f62-81ef-de0570c9e751" name="Default Changelist" comment="Replace public key with environment data.">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +66,16 @@
       <updated>1600815271990</updated>
       <workItem from="1600815273002" duration="3805000" />
       <workItem from="1600819543641" duration="1172000" />
-      <workItem from="1600879532974" duration="8542000" />
+      <workItem from="1600879532974" duration="9420000" />
     </task>
+    <task id="LOCAL-00001" summary="Replace public key with environment data.">
+      <created>1600891206136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600891206136</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,11 +92,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Replace public key with environment data." />
+    <option name="LAST_COMMIT_MESSAGE" value="Replace public key with environment data." />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1020" y="536" width="588" height="408" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600889460445">
       <screen x="72" y="27" width="2488" height="1413" />
     </state>
     <state x="1020" y="536" width="588" height="408" key="#com.intellij.fileTypes.FileTypeChooser/72.27.2488.1413/2560.0.2560.1440@72.27.2488.1413" timestamp="1600889460445" />
+    <state x="856" y="276" width="916" height="1089" key="CommitChangelistDialog2" timestamp="1600891322359">
+      <screen x="72" y="27" width="2488" height="1413" />
+    </state>
+    <state x="856" y="276" width="916" height="1089" key="CommitChangelistDialog2/72.27.2488.1413/2560.0.2560.1440@72.27.2488.1413" timestamp="1600891322359" />
     <state x="1170" y="634" width="292" height="212" key="Github.ShareDialog" timestamp="1600889798204">
       <screen x="72" y="27" width="2488" height="1413" />
     </state>
@@ -97,5 +113,13 @@
       <screen x="72" y="27" width="2488" height="1413" />
     </state>
     <state x="1115" y="413" width="398" height="653" key="Github.UntrackedFilesDialog/72.27.2488.1413/2560.0.2560.1440@72.27.2488.1413" timestamp="1600889823744" />
+    <state x="914" y="470" width="800" height="540" key="Vcs.Push.Dialog.v2" timestamp="1600891361491">
+      <screen x="72" y="27" width="2488" height="1413" />
+    </state>
+    <state x="914" y="470" width="800" height="540" key="Vcs.Push.Dialog.v2/72.27.2488.1413/2560.0.2560.1440@72.27.2488.1413" timestamp="1600891361491" />
+    <state x="1100" y="649" width="428" height="182" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600891345942">
+      <screen x="72" y="27" width="2488" height="1413" />
+    </state>
+    <state x="1100" y="649" width="428" height="182" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.2488.1413/2560.0.2560.1440@72.27.2488.1413" timestamp="1600891345942" />
   </component>
 </project>
